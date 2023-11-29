@@ -11,8 +11,13 @@ Workbook:
 
 Steps:
 1: I attempted to download and unzip the data files using import.py. 
+
     This didn't actually work. I don't know why.  The script gave no errors but it also never finished!!
+    
 2: Since step #1 didn't work, I downloaded FileZilla FTP client and downloaded the file in windows then unzipped it in windows.
+
 3: Identified five sets of family trios (mother, father, child) and listed them at the top of the mutation_finder.py file. 
+
 3: Run mutation_finder.py. 
+
 4: output.txt was generated from mutation_finder, which created all the data that I needed to write my thesis and create the graphs. 
