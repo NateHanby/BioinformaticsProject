@@ -10,6 +10,7 @@ output.txt: The output of mutation_finder, a human readable text file with a wea
 Workbook:
 
 Steps:
+
 1: I attempted to download and unzip the data files using import.py. 
 
     This didn't actually work. I don't know why.  The script gave no errors but it also never finished!!
